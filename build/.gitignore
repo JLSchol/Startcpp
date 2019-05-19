@@ -1,0 +1,3 @@
+# Dont track all files is this folder
+*
+!.gitignore
